@@ -46,7 +46,7 @@ public class Studentinfo {
 		for(i=1;i<11;i++)
 		{
 			set=i-1;
-			System.out.print("("+i+")"+ Name[set]+"\t\t\t"+LN[set]+"\t\t\t"+Gender[set]+"\t\t\t"+Birthday[set]+"\t\t\t"+Address[set]+"\t\t\t"+Teacher[set]+"\t\t\t"+Section[set]+"\t\t\t"+Age[set]+"\t\t\t\n");
+			System.out.print("("+i+")"+ Name[set]+"\t\t\t"+LN[set]+"\t\t\t"+Gender[set]+"\t\t\t"+Birthday[set]+"\t\t\t"+City[set]+"\t\t\t"+Teacher[set]+"\t\t\t"+Section[set]+"\t\t\t"+Age[set]+"\t\t\t\n");
 		}
 			
 			
