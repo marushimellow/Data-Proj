@@ -6,7 +6,7 @@ public class Studentinfo {
 	public static String[] LN = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};
 	public static String[] Gender = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};	
 	public static String[] Birthday = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};
-	public static String[] Address = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};		
+	public static String[] City = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};		
 	public static String[] Teacher = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};
 	public static String[] Section = {"Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty","Empty"};
 	public static int[] Age = {1,1,1,1,1,1,1,1,1,1};
