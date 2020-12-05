@@ -37,7 +37,7 @@ public class Studentupdate extends Studentdelete {
 						slot7 = s.next();
 						System.out.print("Enter New Birthday: ");
 						slot8 = s.next();
-						System.out.print("Enter New Address: ");
+						System.out.print("Enter New City: ");
 						slot4 = s.next();
 						System.out.print("Enter New Teacher: ");
 						slot3 = s.next();
