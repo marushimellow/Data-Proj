@@ -58,7 +58,7 @@ public class Studentupdate extends Studentdelete {
 							LN[carl]= slot6;
 							Gender[carl]= slot7;
 							Birthday[carl]= slot8;
-							Address[carl]= slot4;
+							City[carl]= slot4;
 							Teacher[carl]= slot3;
 							Section[carl]= slot2;
 							Age[carl]= slot1;
