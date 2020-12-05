@@ -58,7 +58,7 @@ public class Studentadd extends Studentinfo {
 								LN[billy]=slot6;
 								Gender[billy]=slot7;
 								Birthday[billy]=slot8;
-								Address[billy]=slot4;
+								City[billy]=slot4;
 								Teacher[billy]=slot3;
 								Section[billy]=slot2;
 								Age[billy]=slot1;
