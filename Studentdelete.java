@@ -18,7 +18,7 @@ public class Studentdelete extends Studentinfo {
 			LN[eraserheads] = "Empty";
 			Gender[eraserheads] = "Empty";
 			Birthday[eraserheads] = "Empty";
-			Address[eraserheads] = "Empty";
+			City[eraserheads] = "Empty";
 			Teacher[eraserheads] = "Empty";
 			Section[eraserheads] = "Empty";
 			Age[eraserheads] = 1;
