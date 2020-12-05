@@ -41,7 +41,7 @@ public class Studentinfo {
 		System.out.println("__________________________________________________________________________________________________________________________________________________________________________________________"); //design purpose only
 
 		// (/t/t) is to tab the word inside
-		System.out.println("First Name\t\t Last Name \t\t Gender \t\t Birthday \t\t Address \t\t Teacher \t\t Section \t\t Age\n"); // tabs in the student infotmation//
+		System.out.println("First Name\t\t Last Name \t\t Gender \t\t Birthday \t\t City \t\t Teacher \t\t Section \t\t Age\n"); // tabs in the student infotmation//
 	
 		for(i=1;i<11;i++)
 		{
